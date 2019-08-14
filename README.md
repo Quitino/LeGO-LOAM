@@ -1,5 +1,7 @@
 # LeGO-LOAM
 
+[泡泡推荐词](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=2247503505&idx=1&sn=4229ce79fc74f1655e2437220233fccc&chksm=ec137095db64f983e81a6e622e78ab971dad66854b3064b603188fb1d1b678ce18b7cab10e4f&mpshare=1&scene=1&srcid=0814UslTkkGlum4Ey7H5Onsj&sharer_sharetime=1565763809203&sharer_shareid=662e33bcf39b24da66575a9f1c3f9ab8&pass_ticket=F%2FDcQUFoziFQRIZO5nFqbGSWQROwfTXyyFj%2B3FTug77yGQBpxqgMTzUTPyXdfXYW#rd)
+
 This repository contains code for a lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. The system takes in point cloud  from a Velodyne VLP-16 Lidar (palced horizontal) and optional IMU data as inputs. It outputs 6D pose estimation in real-time. A demonstration of the system can be found here -> https://www.youtube.com/watch?v=O3tz_ftHV48
 <!--
 [![Watch the video](/LeGO-LOAM/launch/demo.gif)](https://www.youtube.com/watch?v=O3tz_ftHV48)
